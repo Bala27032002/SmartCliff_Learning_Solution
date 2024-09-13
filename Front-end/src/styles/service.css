@@ -1,0 +1,20 @@
+/* For smaller mobile devices like iPhone 5/SE */
+@media (max-width: 320px) {
+  .home {
+    padding: 0.5rem;
+  }
+}
+
+/* For typical mobile devices */
+@media (max-width: 480px) {
+  .home {
+    padding: 1rem;
+  }
+}
+
+/* For larger mobile devices */
+@media (max-width: 768px) {
+  .home {
+    padding: 2rem;
+  }
+}

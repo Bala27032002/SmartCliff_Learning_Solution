@@ -1,0 +1,44 @@
+.contact-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .contact-image {
+    flex: 1;
+  }
+  
+  .contact-form {
+    flex: 1;
+    margin: 0 auto; /* This centers the form horizontally */
+    width: 30%;    /* Set the desired width for the form */
+    padding: 50px; /* Add padding for spacing */
+  }
+  
+  
+  .contact-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input  {
+    width: 40%;
+    height: 40px; /* Adjust the height as needed */
+    padding: 5px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 5px;
+  }
+  
+  .outline-btn {
+    padding: 3px 15px;
+  }

@@ -1,0 +1,35 @@
+{
+    "home":[
+    { "text": "Premium Training", "color": "#fac78c","logo":"Banner" },
+    { "text": "100% Placement Support", "color": "#9dd1fa","logo":"Banner" },
+    { "text": "IT Developer as Trainer", "color": "#e3a8e9","logo":"Banner" },
+    { "text": "Trending Project & Assignment", "color": "#9ce8b5","logo":"Banner" }
+    ],
+    "course":[
+        {
+            "image": "Banner",
+            "title": "Programming Language",
+            "description": "Description for Card 1",
+            "route": "/program"
+          },
+          
+          {
+            "image": "Banner2",
+            "title": "Embedded Program",
+            "description": "Description for Card 2",
+            "route": "/embedded"
+          },
+          {
+            "image": "Banner3",
+            "title": "Testing",
+            "description": "Description for Card 3",
+            "route": "/testing"
+          }
+    ],
+    "service":[
+        { "title": "Hire Train Deploy","imgsrc": "Banner","des": "Read more" },
+        { "title": "MCA Program" ,"imgsrc": "Banner","des": "Read more"},
+        { "title": "Institutional Training", "imgsrc": "Banner", "des": "Read more" },
+        { "title": "Lateral Trainer", "imgsrc": "Banner" , "des": "Read more"}
+    ]
+}
